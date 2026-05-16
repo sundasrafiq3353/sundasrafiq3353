@@ -1,5 +1,4 @@
-Preview
-Raw Markdown
+
 Hi, I'm Sundas Rafiq 👋
 Computer Science graduate from Pakistan, based in Qatar. I build IoT systems, mobile apps, and real-time dashboards. Passionate about technology that solves real problems.
 
@@ -37,4 +36,3 @@ Engimatech (Jan–Mar 2025) — Developed Django web apps, performed API testing
 
 FAME Sports Academy, Qatar (Oct 2025–Jan 2026) — Coordinated training activities, managed data records, and supported communications.
 
-Copy failed — try from claude.ai in browser
